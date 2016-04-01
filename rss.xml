@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Around the Corner Productions]]></title>
+        <description><![CDATA[Around the Corner Productions]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Apr 2016 19:04:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>In this weeks show preview the NCAA Wrestling Championships with head coach Doug Schwab. We look at the seniors that have left their legacy in more ways than the regular season title on the women's hoops team. We look back at a recent inductee in the UNI Hall of Fame, former coach Greg McDermott. We also recap a record setting UNI Swimming and Diving season.</p>]]></description>
+            <link>undefinedd940c5d5-8d53-412b-8bd5-a47a15c0d05c/index.html</link>
+            <guid isPermaLink="false">d940c5d5-8d53-412b-8bd5-a47a15c0d05c</guid>
+            <pubDate>Fri, 01 Apr 2016 19:03:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
