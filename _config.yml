@@ -1,4 +1,4 @@
-name: Around the Corner Productions
+name: Panther Sports Talk
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.51078
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.675870229722932
+    - '#000000'
+    - '#e6ab1f'
+    - '#4e2976'
+    - '#816b9c'
+    - '#e0e0e0'
+  brandStrength: 1
   lightness: 0.7370329075492918
-  saturation: 0.8373703008983284
-  rhythmicContrast: 0.7416789713315666
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
