@@ -1,26 +1,28 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?feature=player_embedded&v=0iheEQzX_RE&list=PL5zm11HJbk47q_ZewP2wVFdcjC2fjdpRK'
+inLanguage: null
+keywords: []
+description: Today we sit down with head coach Mark Farley to recap the Fall camp and preview the big in-state show down against the Iowa State Cyclones. We preview the upcoming Cross Country season. Hear about the importance of a strong athletic department from University President Bill Ruud.
+datePublished: '2016-05-05T19:46:56.746Z'
+dateModified: '2016-05-05T19:46:44.027Z'
 author:
   - name: PantherSportsTalk
     url: 'https://www.youtube.com/user/PantherSportsTalk'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: Today we sit down with head coach Mark Farley to recap the Fall camp and preview the big in-state show down against the Iowa State Cyclones. We preview the upcoming Cross Country season. Hear about the importance of a strong athletic department from University President Bill Ruud.
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?feature=player_embedded&v=0iheEQzX_RE&list=PL5zm11HJbk47q_ZewP2wVFdcjC2fjdpRK'
 title: 'Panther Sports Talk - Show 4, Sept. 4'
-datePublished: '2016-05-05T19:42:41.357Z'
-dateModified: '2016-05-05T19:41:59.508Z'
-starred: false
 sourcePath: _posts/2016-05-05-panther-sports-talk-show-4-sept-4.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
